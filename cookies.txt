@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+universitypastpapers.weebly.com	TRUE	/	FALSE	1999999999	is_mobile	0
+images.weebly.com	TRUE	/	FALSE	1999999999	language	en
+images.weebly.com	TRUE	/	FALSE	1999999999	cookie-consent	%7B%22allowStrictlyNecessaryCookies%22%3Atrue%2C%22allowFunctionalityCookies%22%3Atrue%2C%22allowPerformanceCookies%22%3Atrue%2C%22allowTargetingCookies%22%3Atrue%7D
+weebly.com	TRUE	/	FALSE	1999999999	sto-id-editor	BDBEBOAK
+universitypastpapers.weebly.com	TRUE	/	FALSE	1999999999	cookie-consent	%7B%22allowStrictlyNecessaryCookies%22%3Atrue%2C%22allowFunctionalityCookies%22%3Atrue%2C%22allowPerformanceCookies%22%3Atrue%2C%22allowTargetingCookies%22%3Atrue%7D
+universitypastpapers.weebly.com	TRUE	/	FALSE	1999999999	srv_domainuserid	716dc1e7239e36bf980c7365381e92b3c29e1919
+universitypastpapers.weebly.com	TRUE	/	FALSE	1999999999	language	en
+universitypastpapers.weebly.com	TRUE	/	FALSE	1999999999	WeeblyDiceRollUser	MTY0MTc3NDk5OXxGQXdBRVhacGMybDBiM0pmTWpnNE56TXhNREExfM-6oXLIM9eM64MuSPzZ8PRH6JM843Nr6axKecdi0ljm
+
